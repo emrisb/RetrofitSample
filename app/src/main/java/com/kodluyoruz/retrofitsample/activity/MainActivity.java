@@ -23,7 +23,7 @@ import retrofit2.Response;
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
-    private final static String API_KEY = "553db28f57d06fec1662d4184ce4318a";
+    private final static String API_KEY = "YOUR_API_KEY";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
